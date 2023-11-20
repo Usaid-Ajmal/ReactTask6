@@ -28,7 +28,7 @@ function App() {
       
       <header>
         <div className='top'>
-          <div className="logo">Nishant</div>
+          <div className="logo">Usaid Ajmal</div>
           <MdOutlineMenu  onClick={()=>setOpenMenu(true)}/>
         </div>
         <Header />
