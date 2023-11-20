@@ -11,7 +11,7 @@ const Welcome = () => {
           </div>
           <div className='welcome-right'>
             <div className='welcome_image'>
-              <img src={helloImage} />
+              <img src={} />
             </div>
           </div>
         </div>
