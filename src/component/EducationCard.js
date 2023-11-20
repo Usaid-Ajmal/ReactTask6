@@ -8,7 +8,7 @@ const EducationCard = () => {
             <FaGraduationCap/>
         </div>
         <div className='education_card_content'>
-            <p>2020-2024</p>
+            <p>2021-2025</p>
             <h3>B-Tech - Computer Science and Engineering</h3>
             <p>Vellore Institute of Technology, Vellore</p>
         </div>
