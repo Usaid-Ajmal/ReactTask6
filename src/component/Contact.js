@@ -16,15 +16,15 @@ const Contact = () => {
     <div className='socialMedia'>
       <div className='socialMedia_item'>
         <MdEmail/>
-        <p>nishant2003singh@gmail.com</p>
+        <p>usaidajmal274@gmail.com</p>
       </div>
       <div className='socialMedia_item'>
         <MdPhoneInTalk/>
-        <p>7667965445</p>
+        <p>7306209999</p>
       </div>
       <div className='socialMedia_item'>
         <MdLocationOn/>
-        <p>Patna, Bihar</p>
+        <p>Manjeri , Kerala</p>
       </div>
        
       <div className='socialMedia_personal'>
