@@ -5,9 +5,6 @@ const Header = () => {
     return (
         <div className='header-container' id='home'>
             <div className='header-left'>
-                <div className='profile-image'>
-                    
-                </div>
             </div>
             <div className='header-right'>
                 <div className='header-right-content'>
