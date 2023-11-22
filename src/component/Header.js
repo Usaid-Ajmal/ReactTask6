@@ -1,12 +1,12 @@
 import React from 'react'
-import profileImage from "../assest/img/Nishant.jpg"
+
 
 const Header = () => {
     return (
         <div className='header-container' id='home'>
             <div className='header-left'>
                 <div className='profile-image'>
-                    <img src="" />
+                    
                 </div>
             </div>
             <div className='header-right'>
