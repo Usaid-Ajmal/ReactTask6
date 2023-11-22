@@ -1,5 +1,5 @@
 import React from 'react'
-import helloImage from "../assest/img/hello.gif"
+
 
 const Welcome = () => {
   return (
@@ -10,9 +10,6 @@ const Welcome = () => {
             <p>I am an accomplished web developer, driven by a relentless desire to acquire new skills and make meaningful contributions to open source initiatives. My academic pursuits have led me to pursue a Bachelor's degree in Computer Science Engineering from Vellore Institute of Technology. I possess a comprehensive understanding of programming languages, including C++, Java, HTML, CSS, MySQL, and JavaScript, which has equipped me to develop robust web solutions. Additionally, my proficient communication skills in English and Hindi enable me to collaborate seamlessly with diverse teams.</p>
           </div>
           <div className='welcome-right'>
-            <div className='welcome_image'>
-              <img src="" />
-            </div>
           </div>
         </div>
   )
