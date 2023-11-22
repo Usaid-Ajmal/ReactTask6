@@ -6,7 +6,7 @@ const Header = () => {
         <div className='header-container' id='home'>
             <div className='header-left'>
                 <div className='profile-image'>
-                    <img src={} />
+                    <img src="" />
                 </div>
             </div>
             <div className='header-right'>
